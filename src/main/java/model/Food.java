@@ -27,6 +27,6 @@ public abstract class Food implements Discountable {
 
     @Override
     public double getDiscount() {
-        return Discount.noDiscount;
+        return Discount.NO_DISCOUNT;
     }
 }

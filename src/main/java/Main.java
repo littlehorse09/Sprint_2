@@ -1,6 +1,5 @@
 import model.Apple;
 import model.Meat;
-import model.Food;
 import service.ShoppingCart;
 
 public class Main {
